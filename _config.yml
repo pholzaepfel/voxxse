@@ -1,0 +1,11 @@
+title: voxxse
+theme: "jekyll-shell-theme"
+highlighter: rouge
+baseurl: "/"
+url: "https://voxxse.com"
+github_username: pholzaepfel
+
+plugins:
+        - jemoji
+sass:
+          style: compressed
