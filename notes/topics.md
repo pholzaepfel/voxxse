@@ -4,6 +4,7 @@ How influrence comes to work against you
 	* Avatar for security
 	* Jesus - words being twisted against you
 
+
 Listen without asking
 	better horses
 	you can't measure a thing without changing it

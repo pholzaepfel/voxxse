@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6806a787bfe2baf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f2ecf637b58ac96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/topics.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ec61b3dd6c8804",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca03d4aa944d6a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fc3e08a218115b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96d11f563d0413fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cadf1d6d2b1b5942",
+    "type": "split",
+    "children": [
+      {
+        "id": "725edf85a336d53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5e2228b53429e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3f2ecf637b58ac96",
+  "lastOpenFiles": [
+    "notes/topics.md",
+    "site/_posts/2021-06-13-hello-world.md"
+  ]
+}
