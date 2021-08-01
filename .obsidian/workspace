@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/topics.md",
+            "file": "notes/influence.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/topics.md",
+                "file": "notes/influence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,15 @@
   },
   "active": "3f2ecf637b58ac96",
   "lastOpenFiles": [
+    "notes/influence.md",
+    "simplicity and elegance.md",
     "notes/topics.md",
-    "site/_posts/2021-06-13-hello-world.md"
+    "tao.md",
+    "rogue.md",
+    "notes/respect for time.md",
+    "respect for time.md",
+    "notes/opportunity cost.md",
+    "the futility of knowing the answer to the wrong question.md",
+    "opportunity cost.md"
   ]
 }

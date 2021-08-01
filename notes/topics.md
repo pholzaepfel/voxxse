@@ -1,32 +1,26 @@
 disclaimer: personal opnioins, representing nobody
 
-How influrence comes to work against you
-	* Avatar for security
-	* Jesus - words being twisted against you
+[[influence]]
 
+[[opportunity cost]]
 
-Listen without asking
-	better horses
-	you can't measure a thing without changing it
+[[the futility of knowing the answer to the wrong question]]
+
+[[respect for time]]
+
+[[rogue]]
+
+[[simplicity and elegance]]
 
 what keeps me up at night
 	that I'm doing the wrong things.
 
-	"Ain't nobody got time for that"
-		> BLUF communication
-		> BLUF in software, too, or better yet just shut up
 
 	what are you doing and why?
 	do you need goals or systems?
 
-	"treat my words like gold"
 	"spend 6 hours sharpening your axe"
 
-	roguelikes
-		getting comfortable with failing
-		failing fast
-		trying again
-		leveling the player
 
 ui/ux especially the poor performance of the modern web
 
