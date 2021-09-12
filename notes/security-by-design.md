@@ -20,7 +20,7 @@ consider
 
 Today, when we're talking about a password, we're talking about a password for a service that can be acccessed by anyoen in the world, from anywhere, at any time. The cost of guessing a password is negligible. You can make an insane number of attempts without there being anything to stop you.
 
-In the outer worlds - and I imagine, in the [[where the fuck was arpanet?? #TODO]], guessing a password is a lot more expensive when you're having to have physical access, and that physical access is guarded by dudes with guns
+In the outer worlds - and I imagine, in the [[where the fuck was arpanet?? #TODO]], guessing a password is a lot more expensive when you're having to have physical access, and that physical access is guarded by dudes with guns. You can't access the computer without being physically present, and you only get so many guesses before one of those aforementioned weapons does the whole kill chain thing.
 
 In a world with no or less networking, your prime security concerns are physical. The other one is simply ... something something code diet. Making sure you know what you're putting in your machine and that it's safe enough. Provenance is the most important thing, trust is probably "good enough" though of course it would be better to understand what our machines were doing.
 
@@ -30,7 +30,6 @@ We are where we're at today because we *disobeyed* the security advice of yore:
 - We have world-facing services open like crazy. Multiple things running on every machine are just listening, waiting for instructions. Those instructions could be bad.
 - We don't understand any of the code running on our computers, and allow them to do more than we can possibly understand. 
 - We *constantly* run code from untrusted sources (hello web browser)
-- We ship confidential data to third parties
-
+- We ship confidential data to third parties and trust that they won't mishandle them
 
 
