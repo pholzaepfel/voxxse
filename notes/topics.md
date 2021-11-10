@@ -46,3 +46,5 @@ Committing things to text
 Transparency; We deal in bad news. It's important that we do not shoot or berate the messenger - good relationships are more reliable than any tools.
 
 Opportunity cost and risk
+
+hit f12 and learn to WAF
